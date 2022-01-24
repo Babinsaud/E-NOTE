@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383795753828",
+    "project_id": "e-note-a53d0",
+    "storage_bucket": "e-note-a53d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383795753828:android:f16982ed71a7c7461bc071",
+        "android_client_info": {
+          "package_name": "com.babin.e_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383795753828-lai7j221uhc05qthpjdjo11m7onllai7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMm5AZwt9rsHlTX5cFRTSvvubJ4MfcYoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383795753828-lai7j221uhc05qthpjdjo11m7onllai7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
